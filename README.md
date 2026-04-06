@@ -71,7 +71,7 @@ at nearly double the rate of non-seniors
 ---
 
 ## 📊 Dashboard Preview
-*Screenshot coming soon*
+![Dashboard](dashboard.png)
 
 ---
 
